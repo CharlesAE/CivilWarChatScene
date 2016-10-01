@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Civil War Chat Scene</string>
+    <string name="hero_message">Hero Message</string>
+    <string name="hero_name">Hero Name</string>
+</resources>

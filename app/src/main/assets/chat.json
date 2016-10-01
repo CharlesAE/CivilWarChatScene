@@ -1,0 +1,73 @@
+//Images courtesy of https://www.pinterest.com/anamoncasa/avengers/
+{
+  "data" :
+  [
+
+    {
+      "hero_id" : "1",
+      "hero" : "Iron Man",
+      "hero_img" : "iron_man",
+      "message" : "All right, I've run out of patience. 'Underoos!'"
+    },
+    {
+      "hero_id" : "2",
+      "hero" : "Spider Man",
+      "hero_img" : "spider_man",
+      "message" : "*webbing comes down, grabs Cap's shield and cuffs his hands*"
+    },
+    {
+      "hero_id" : "3",
+      "hero" : "Captain America",
+      "hero_img" : "captain_america",
+      "message" : "?????"
+    },
+    {
+      "hero_id" : "1",
+      "hero" : "Iron Man",
+      "hero_img" : "iron_man",
+      "message" : "Nice Job, Kid!"
+    },
+    {
+      "hero_id" : "2",
+      "hero" : "Spider Man",
+      "hero_img" : "spider_man",
+      "message" : "Thanks! Well, I could have stuck the landing a little better. It's just, new suit... wait, it's nothing, Mr. Stark. It's... it's perfect, thank you."
+    },
+    {
+      "hero_id" : "1",
+      "hero" : "Iron Man",
+      "hero_img" : "iron_man",
+      "message" : "Yeah, we don't really need to start a conversation."
+    },
+    {
+      "hero_id" : "2",
+      "hero" : "Spider Man",
+      "hero_img" : "spider_man",
+      "message" : "Okay."
+    },
+    {
+      "hero_id" : "2",
+      "hero" : "Spider Man",
+      "hero_img" : "spider_man",
+      "message" : "Cap... Captain? Big fan. Spider-Man."
+    },
+    {
+      "hero_id" : "3",
+      "hero" : "Captain America",
+      "hero_img" : "captain_america",
+      "message" : "????????????"
+    },
+    {
+      "hero_id" : "1",
+      "hero" : "Iron Man",
+      "hero_img" : "iron_man",
+      "message" : "Yeah, we'll talk about it later. Just..."
+    },
+    {
+      "hero_id" : "2",
+      "hero" : "Spider Man",
+      "hero_img" : "spider_man",
+      "message" : "[waves] Hey, everyone."
+    }
+  ]
+}
